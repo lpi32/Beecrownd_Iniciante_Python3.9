@@ -1,19 +1,27 @@
 # Resolvendo URI judge em Python
+
 Resolução dos exercícios do URI judge em python 
 
-### 1. Objetivo
+### 1. Objetivo.
 
-Resolver todos os exercícios de inicante contendo na plataforma do URI judge </br>
-Sendo que cada arquivo **xxxx.py** representa o exercicio. <br/> 
+Resolver todos os exercícios de inicante contendo na plataforma do beecrowd (antiga URI judge), Buscando melhorar minhas habilidades com o Python.
 
-Totalizando 335 problemas a qual usarei nos meus Estudos de Python, depois <br/> 
-sera criado um repósitorio para resolução dos problemas mais avançados "AD-HOCK" <br/>
-percorrerei assim ate finalizar o máximo de categorias possiveis. 
+São 335 Problemas, onde foram salvos em arquivos nomeados de acordo com o número do problema onde foram agrupados em pastas contendo 10.
 
-### 2. Cronograma das Resoluções
+Todos foram resolvidos na IDE e depois levados para a submissão da plataforma. 
+
+
+
+### 2. Cronograma das Resoluções.
 Data   | Exercícios Resolvidos 
 --------- | ------
-14/03/2022 | 1000 a 1009
+14/03/2022 | 1000 a 1010
 
+
+
+### 3. Meu perfil.
+
+Deixo o link do meu perfil na beecrowd
+https://www.beecrowd.com.br/judge/pt/profile/635587
 
 ### 
