@@ -16,7 +16,7 @@ Todos foram resolvidos na IDE e depois levados para a submissão da plataforma.
 Data   | Exercícios Resolvidos 
 --------- | ------
 14/03/2022 | 1000 a 1010
-
+15/03/2022 | 1011 a 1020
 
 
 ### 3. Meu perfil.
