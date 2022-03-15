@@ -1,3 +1,4 @@
+#1020
 dias=int(input())
 ano = dias // 365
 mes = (dias % 365) //30

@@ -2,7 +2,6 @@
 
 peca1 = input().split(" ")
 peca2 = input().split(" ")
-
 codigo1, quantidade1, preco_unitario1 = peca1
 codigo2, quantidade2, preco_unitario2 = peca2
 
